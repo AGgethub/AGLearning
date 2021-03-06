@@ -1,2 +1,0 @@
-# AGLearning
-Correct Learning folder
