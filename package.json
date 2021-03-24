@@ -1,0 +1,19 @@
+{
+  "name": "aglearning",
+  "version": "1.0.0",
+  "description": "Correct Learning folder\r trying to figur this out  will it update now will it work dte",
+  "main": "AGFjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AGgethub/AGLearning.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AGgethub/AGLearning/issues"
+  },
+  "homepage": "https://github.com/AGgethub/AGLearning#readme"
+}
