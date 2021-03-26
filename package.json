@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AGgethub/AGLearning/issues"
   },
-  "homepage": "https://github.com/AGgethub/AGLearning#readme"
+  "homepage": "https://github.com/AGgethub/AGLearning#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
